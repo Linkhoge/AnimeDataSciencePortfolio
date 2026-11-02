@@ -1,0 +1,9 @@
+# Python packages required for the Anime Data Science Portfolio
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
